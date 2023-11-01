@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Área Administrativa</title>
+</head>
+
+<body>
+  <h1>Área Administrativa</h1>
+  
+  <div class="admin">
+    <section>
+      <h2>Cadastrar Perguntas</h2>
+      <div id="questionsManager"></div>
+      <button id="newQuestion">Nova Pergunta</button>
+    </section>
+
+    <aside>
+      <h2>Cadastrar Resultado</h2>
+      <form id="newResultForm">
+        <label for="name">Nome:</label>
+        <input type="text" name="name" id="name" required>
+        <label for="description">Descrição:</label>
+        <textarea name="description" id="description" rows="4" required></textarea>
+        <button type="submit">Salvar</button>
+      </form>
+      <h2>Resultados Possíveis</h2>
+      <ul id="resultsList"></ul>
+    </aside>
+  </div>
+
+  <footer>
+    Desenvolvido por @isaacpontes como projeto final do Curso Gratuito de JavaScript da OneBitCode.
+  </footer>
+
+  <script type="module" src="/main.js"></script>
+</body>
+
+</html>

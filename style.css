@@ -1,0 +1,190 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+header {
+  background-color: #1a1a1a;
+  position: sticky;
+  top: 0;
+  height: 3rem;
+  width: 100%;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+body {
+  /* overflow: hidden; */
+}
+
+#quiz {
+  min-height: calc(100vh - 3rem);
+  text-align: center;
+  width: 100%;
+}
+
+.question,
+.finish-btn-container,
+.result {
+  display: grid;
+  place-content: center;
+  height: calc(100vh - 3rem);
+}
+
+.question > button {
+  margin: 0 auto;
+  width: fit-content;
+}
+
+.question h2 {
+  margin: 4rem 0;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+button.selected {
+  background-color: #646cff;
+}
+
+.finish-btn {
+  background-color: #1c7031;
+  display: block;
+  font-size: 1.5rem;
+  margin: 2rem auto 0 auto;
+  text-transform: capitalize;
+}
+
+.finish-btn:hover {
+  filter: brightness(0.9);
+  border-color: #1c7031;
+}
+
+.admin {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+  padding: 0 2rem 8rem;
+  min-height: calc(100vh - 9rem);
+  width: 100%;
+}
+
+.admin > aside {
+  flex-grow: 0;
+  flex-basis: 32rem;
+}
+
+.admin > section {
+  flex-grow: 1;
+  flex-basis: 32rem;
+}
+
+#newResultForm > *,
+.questionForm > *,
+.questionForm select {
+  display: block;
+  font-size: 1rem;
+  margin-top: 1rem;
+}
+
+#newResultForm > input,
+#newResultForm > textarea,
+.questionForm > input,
+.questionForm > textarea,
+.questionForm select {
+  border: none;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  width: 100%;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.inline-block + .inline-block {
+  margin-left: 1rem;
+}
+
+.button-group button {
+  background-color: #535bf2;
+  border: none;
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+.button-group button[type="button"] {
+  background-color: #f64348;
+  border: none;
+}
+
+.button-group button:hover {
+  filter: brightness(0.9);
+}
+
+.questionForm {
+  background-color: #1a1a1a;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+  padding: 1rem;
+}
+
+footer {
+  background-color: #1a1a1a;
+  display: grid;
+  place-content: center;
+  height: 3rem;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}

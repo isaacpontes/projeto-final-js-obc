@@ -1,0 +1,207 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Sou uma pessoa versátil e gosto de ter conhecimento sobre várias áreas diferentes.",
+      "points": {
+        "fullyDisagree": 5,
+        "partiallyDisagree": 3,
+        "dontKnow": null,
+        "partiallyAgree": 2,
+        "fullyAgree": 1
+      }
+    },
+    {
+      "id": 2,
+      "text": "Gosto de arte e design, sou uma pessoa que sempre preza por um trabalho bonito e bem pensado.",
+      "points": {
+        "fullyDisagree": 2,
+        "partiallyDisagree": 5,
+        "dontKnow": 1,
+        "partiallyAgree": 4,
+        "fullyAgree": 3
+      }
+    },
+    {
+      "id": 3,
+      "text": "Tenho vontade de trabalhar desenvolvendo aplicativos para smartphone.",
+      "points": {
+        "fullyDisagree": 5,
+        "partiallyDisagree": 2,
+        "dontKnow": 3,
+        "partiallyAgree": 1,
+        "fullyAgree": 4
+      }
+    },
+    {
+      "id": 4,
+      "text": "Sou apaixonado por matemática e estatística, minha área são as ciências exatas.",
+      "points": {
+        "fullyDisagree": 3,
+        "partiallyDisagree": 4,
+        "dontKnow": null,
+        "partiallyAgree": 2,
+        "fullyAgree": 5
+      }
+    },
+    {
+      "id": 5,
+      "text": "Eu não tenho problema em pensar de forma abstrata, consigo entender algo com facilidade sem nenhuma referência visual.",
+      "points": {
+        "fullyDisagree": 3,
+        "partiallyDisagree": 4,
+        "dontKnow": 1,
+        "partiallyAgree": 5,
+        "fullyAgree": 2
+      }
+    },
+    {
+      "id": 6,
+      "text": "Em um projeto, eu gosto de ajudar em todas as etapas, sou flexível para ser útil da forma que for necessária.",
+      "points": {
+        "fullyDisagree": 5,
+        "partiallyDisagree": 2,
+        "dontKnow": null,
+        "partiallyAgree": 3,
+        "fullyAgree": 1
+      }
+    },
+    {
+      "id": 7,
+      "text": "Gosto da ideia de trabalhar em uma área mais complexa e que não é tão popular para me diferenciar da maioria.",
+      "points": {
+        "fullyDisagree": 3,
+        "partiallyDisagree": 4,
+        "dontKnow": null,
+        "partiallyAgree": 2,
+        "fullyAgree": 5
+      }
+    },
+    {
+      "id": 8,
+      "text": "Minha prioridade é o usuário final, gosto de atuar impactando diretamente na sua experiência.",
+      "points": {
+        "fullyDisagree": 2,
+        "partiallyDisagree": 1,
+        "dontKnow": null,
+        "partiallyAgree": 4,
+        "fullyAgree": 3
+      }
+    },
+    {
+      "id": 9,
+      "text": "Eu gosto de pensar nos aspectos mais técnicos, como segurança, armazenamento de dados e outras coisas que \"ninguém percebe\".",
+      "points": {
+        "fullyDisagree": 3,
+        "partiallyDisagree": 5,
+        "dontKnow": null,
+        "partiallyAgree": 1,
+        "fullyAgree": 2
+      }
+    },
+    {
+      "id": 10,
+      "text": "Tenho interesse em trabalhar de forma independente como freelancer.",
+      "points": {
+        "fullyDisagree": 5,
+        "partiallyDisagree": 2,
+        "dontKnow": 4,
+        "partiallyAgree": 3,
+        "fullyAgree": 1
+      }
+    },
+    {
+      "id": 11,
+      "text": "Quero conseguir desenvolver aplicativos que sejam usados diariamente e por muitas pessoas.",
+      "points": {
+        "fullyDisagree": 5,
+        "partiallyDisagree": 3,
+        "dontKnow": 0,
+        "partiallyAgree": 1,
+        "fullyAgree": 4
+      }
+    },
+    {
+      "id": 12,
+      "text": "Gosto de trabalhar com tecnologias estáveis, que já são bem estabelecidas e não sofrem mudanças drásticas com frequência.",
+      "points": {
+        "fullyDisagree": 3,
+        "partiallyDisagree": 4,
+        "dontKnow": null,
+        "partiallyAgree": 5,
+        "fullyAgree": 2
+      }
+    },
+    {
+      "id": 13,
+      "text": "Eu tenho vontade de trabalhar criando sites bonitos, com muitos efeitos e animações.",
+      "points": {
+        "fullyDisagree": 2,
+        "partiallyDisagree": 5,
+        "dontKnow": 4,
+        "partiallyAgree": 1,
+        "fullyAgree": 3
+      }
+    },
+    {
+      "id": 14,
+      "text": "Sou do tipo que prefere estar sempre em movimento, não gosto de trabalhar em uma única coisa por muito tempo.",
+      "points": {
+        "fullyDisagree": 5,
+        "partiallyDisagree": 3,
+        "dontKnow": null,
+        "partiallyAgree": 4,
+        "fullyAgree": 1
+      }
+    },
+    {
+      "id": 15,
+      "text": "Quero começar por algo mais simples, que me dê a sensação de estar avançando rápido.",
+      "points": {
+        "fullyDisagree": 2,
+        "partiallyDisagree": 1,
+        "dontKnow": null,
+        "partiallyAgree": 4,
+        "fullyAgree": 3
+      }
+    },
+    {
+      "id": 16,
+      "text": "Não tenho interesse em criar sites ou aplicativos, quero trabalhar com programação para outras finalidades.",
+      "points": {
+        "fullyDisagree": 3,
+        "partiallyDisagree": 4,
+        "dontKnow": 1,
+        "partiallyAgree": 2,
+        "fullyAgree": 5
+      }
+    }
+  ],
+  "results":[
+    {
+      "id": 1,
+      "name": "Desenvolvedor Full-stack",
+      "description": "Um desenvolvedor web full-stack é um profissional versátil que tem a capacidade de trabalhar tanto na parte frontal (frontend) quanto nos bastidores (backend) de aplicações web, e as vezes até mesmo com aplicativos mobile. Sua função envolve a criação da interface do usuário, o design e a interatividade dos sites, bem como o desenvolvimento de servidores, bancos de dados e lógica de aplicativos. Além disso, eles podem estar envolvidos na integração de diferentes componentes e tecnologias para criar soluções completas. Um desenvolvedor web fullstack precisa ser flexível e capaz de compreender uma variedade de tecnologias e linguagens de programação."
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvedor Back-end",
+      "description": "Um desenvolvedor back-end é responsável por construir e manter a parte invisível de um aplicativo ou site, como servidores, bancos de dados e a lógica de negócios que permite que tudo funcione. Eles garantem que os dados sejam processados eficientemente e que as solicitações dos usuários sejam tratadas de forma segura e escalável. Com isso, esse desenvolvedor precisa lidar bem com abstrações e muitas vezes desenvolve aplicações e funcionalidades não visuais, que serão eventualmente usadas por outros desenvolvedores, e não pelo usuário final das aplicações."
+    },
+    {
+      "id": 3,
+      "name": "Desenvolvedor Front-end",
+      "description": "O desenvolvedor front-end concentra-se na parte visível de um site ou aplicativo, projetando e codificando a interface do usuário (UI), a experiência do usuário (UX) e a interatividade. Eles usam tecnologias como HTML, CSS e JavaScript para criar a aparência e o comportamento visual que os usuários veem e com os quais interagem diretamente. Esse desenvolvedor precisa se preocupar com detalhes como acessibilidade, responsividade à diferentes dispositivos e desempenho, garantindo que a aplicação funcione bem, seja fácil de usar e forneça a melhor experiência possível para o usuário final."
+    },
+    {
+      "id": 4,
+      "name": "Desenvolvedor Mobile",
+      "description": "Um desenvolvedor mobile é especializado em criar aplicativos para dispositivos móveis, como smartphones e tablets. Eles desenvolvem aplicativos nativos (para iOS e Android), aplicativos híbridos ou baseados na web que atendam às necessidades dos usuários em dispositivos móveis, garantindo uma experiência suave e eficiente. De certa forma, o desenvolvedor mobile fica no meio termo entre front-end e back-end, afinal, desenvolve interfaces com as quais o usuário final interage diretamente, mas também lida com recursos do próprio dispositivo e do sistema operacional, ou seja, fora do ambiente do navegador web."
+    },
+    {
+      "id": 5,
+      "name": "Analista de Dados",
+      "description": "O Analista de Dados é um profissional que desempenha um papel crítico na coleta, processamento e análise de grandes conjuntos de dados. Eles usam habilidades de programação para automatizar tarefas, desenvolver algoritmos e scripts que facilitam a análise de dados, o que é essencial para descobrir insights valiosos. Com suas habilidades de programação, os analistas de dados podem criar ferramentas personalizadas, realizar manipulação eficiente de dados e gerar visualizações informativas. Isso não apenas ajuda na interpretação dos dados, mas também no fornecimento de informações significativas para apoiar estratégias de negócios e tomadas de decisão informadas. Um analista de dados bem-sucedido combina conhecimentos em estatística e programação para transformar dados brutos em conhecimentos valiosos."
+    }
+  ]
+}
